@@ -1,6 +1,6 @@
-const String baseURL = 'https://chat.edubest.com.ng';
+const String baseURL = '________ BASE URL ________';
 const String apiURL = '${baseURL}api/';
-const String apiKey = 'palaver';
+const String apiKey = 'retry123';
 
 // If you change this topic you also change backend .env file
 String notificationTopic = "shortzz";
